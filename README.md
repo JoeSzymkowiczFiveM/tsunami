@@ -2,6 +2,10 @@
 
 This a simple script to bring down a FiveM server at specific times. Enter the hour that you wish to stop the server, and it will begin a countdown in the chat 5 minutes prior. This will not bring FXServer back up. OS will need to do this separately.
 
+### Requirements
+
+- [cron](https://github.com/esx-framework/cron)
+
 ## Installation
 - Add this to your `server.cfg`:
 ```
