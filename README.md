@@ -13,7 +13,7 @@ start tsunami
 ```
 - Add this to your `server.cfg` after your `start tsunami`:
 ```
-add_ace resource.tsunami command.sets allow
+add_ace resource.tsunami command.quit allow
 ```
 
 # Legal
